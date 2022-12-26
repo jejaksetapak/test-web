@@ -10,6 +10,4 @@ class Blueocean extends CI_Controller
 		unset($array1[$key]);
 		echo json_encode($array1);
 	}
-	
-
 }
